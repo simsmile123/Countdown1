@@ -1,0 +1,22 @@
+p {
+   color: hsl(192, 67%, 51%)
+}
+.titles {
+    text-align: center;
+}
+.fav-food {
+    border: 2px solid rgb(92, 92, 168);
+    padding: 2px;
+    margin: 20px;
+}
+#unique-element {
+    color: rgb(242, 195, 108);
+    font-size: 20px;
+    background-color: lightgray;
+    padding: 10px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
