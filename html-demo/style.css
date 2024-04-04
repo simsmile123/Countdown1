@@ -1,0 +1,39 @@
+p {
+   color: hsl(192, 67%, 51%)
+}
+.titles {
+    text-align: center;
+}
+.fav-food {
+    border: 2px solid rgb(92, 92, 168);
+    padding: 2px;
+    margin: 20px;
+}
+#unique-element {
+    color: rgb(242, 195, 108);
+    font-size: 20px;
+    background-color: lightgray;
+    padding: 10px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.inline-elements {
+    display: inline-block;
+    vertical-align: top; /* Align elements at the top */
+}
+
+/* Additional styling for the heading */
+h1 {
+    margin-left: 10px; /* Adjust margin for spacing */
+}        .inline-elements {
+    display: inline-block;
+    vertical-align: top; /* Align elements at the top */
+}
+
+/* Additional styling for the heading */
+h1 {
+    margin-left: 10px; /* Adjust margin for spacing */
+}
